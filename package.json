@@ -1,0 +1,23 @@
+{
+  "name": "4-natours",
+  "version": "1.0.1",
+  "description": "Learing Node Express and mongo DB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/othinAbbey/4-natours.git"
+  },
+  "author": "abbey Guided by Jonas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/othinAbbey/4-natours/issues"
+  },
+  "homepage": "https://github.com/othinAbbey/4-natours#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
